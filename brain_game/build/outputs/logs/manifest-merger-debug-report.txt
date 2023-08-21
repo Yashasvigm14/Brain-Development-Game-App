@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\yasha\.gradle\caches\transforms-3\f8e726290b741ee567539d27be1324e5\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\yasha\.gradle\caches\transforms-3\e93cedac52e4e0d827f9a35fdc6bbefa\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\6134fb528f4e17eb751392b2c3374b3b\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\68a06d61b6eed9635909a0210dc4e233\transformed\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ec90b04d1f1bcab2120f4411bed126de\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yasha\.gradle\caches\transforms-3\237952c9b93a047db8b2dff18ea8715d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\yasha\.gradle\caches\transforms-3\d074dada3c08061a48027202df27484c\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\5cfec2edf5c3a3cd979b49fae73106d1\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\91ecfb7dbe3fd8ea3fcde04034e6d024\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\468e183ed23987092fce4c7ba152b1c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\4e05d6b86167cb668af0a5dcfda6b1db\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\289681666fd5e8ee901ca8e0d28aa707\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\53da3c7c89896336d8afd184a4023f59\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yasha\.gradle\caches\transforms-3\ef8e4a27d3758913a74e97413d880ac6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\15e2771f4bcc4bf1bcfc2a3c504ddcd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\bfb9d1ad7b98ccfb63a6e6c1967fb893\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\e78f9c59e26819aba974286b3ca0cba7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\2d3d8ac4f305e4fbec05b01114245e26\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\1969731961bc041105e8771c7553a7c8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\307068e44166497b280ae697e036d29d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\189606ca6e32eb7398ef9d83d83bee5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\0b0c663556d3ab0eda6045b45494114d\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\fd12dacc930f11110c6acd1c9aba3fa4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\18bcebb9ca4351b94198a7137403f338\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\749b0373b4ef4fbd77b0cdacdddb240f\transformed\core-ktx-1.12.0-alpha05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yasha\.gradle\caches\transforms-3\e5c814b743ad4229eb30b8da310ca99f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\45b0fb215e8656329636b1441f0d9853\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\33120eef06069ecc5a5f3286094e8b3a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\754d984a7de1b7d9cdbc04aa0c2f8b01\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\cf916b335dac6ce26c0d468b3a3ba641\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\4c536ec85cdd27b623056f10e63e8c33\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\5de84b4738b24f2d4bcfa459ff8f5887\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\26260cd10db0dc1bfaf9957a0dcbfa35\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yasha\.gradle\caches\transforms-3\8a8911af362fb157cf1038034484c441\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\fb7b9378a647d093bf4d7af538cca0ea\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\b69064a8249aa5570809ad93604f6899\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yasha\.gradle\caches\transforms-3\359238e22a6626b3907d2c7ab1b499ba\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\f89d70b76577eba643f06f3bfe1b2980\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ba075195db5b58b24d68780303f79260\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73c12fac5ec350755499a40bf2cc1d67\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\c2c3bf8a4df2fa670bca1d9d55023543\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:5:5-60:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\yasha\.gradle\caches\transforms-3\f8e726290b741ee567539d27be1324e5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\yasha\.gradle\caches\transforms-3\f8e726290b741ee567539d27be1324e5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\yasha\.gradle\caches\transforms-3\e93cedac52e4e0d827f9a35fdc6bbefa\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\yasha\.gradle\caches\transforms-3\e93cedac52e4e0d827f9a35fdc6bbefa\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\26260cd10db0dc1bfaf9957a0dcbfa35\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\26260cd10db0dc1bfaf9957a0dcbfa35\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:11:9-50
+activity#ism3053.fgcubrainage.AboutActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:12:9-16:51
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:15:13-34
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:13:13-42
+activity#ism3053.fgcubrainage.SettingsActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:17:9-21:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:20:13-37
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:18:13-45
+activity#ism3053.fgcubrainage.LeaderboardActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:22:9-26:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:25:13-40
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:23:13-48
+activity#ism3053.fgcubrainage.ArithmeticActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:27:9-31:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:30:13-49
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:28:13-47
+activity#ism3053.fgcubrainage.ResultActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:32:9-36:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:35:13-41
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:33:13-43
+activity#ism3053.fgcubrainage.MemorizeActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:37:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:40:13-47
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:38:13-45
+activity#ism3053.fgcubrainage.CategoryActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:42:9-46:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:45:13-47
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:43:13-45
+activity#ism3053.fgcubrainage.MainMenuActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:50:13-38
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:48:13-45
+activity#ism3053.fgcubrainage.SplashActivity
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:52:9-59:20
+	android:exported
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:53:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml:57:27-74
+uses-sdk
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\yasha\.gradle\caches\transforms-3\f8e726290b741ee567539d27be1324e5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\yasha\.gradle\caches\transforms-3\f8e726290b741ee567539d27be1324e5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\yasha\.gradle\caches\transforms-3\e93cedac52e4e0d827f9a35fdc6bbefa\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\yasha\.gradle\caches\transforms-3\e93cedac52e4e0d827f9a35fdc6bbefa\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\6134fb528f4e17eb751392b2c3374b3b\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\6134fb528f4e17eb751392b2c3374b3b\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\68a06d61b6eed9635909a0210dc4e233\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\68a06d61b6eed9635909a0210dc4e233\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ec90b04d1f1bcab2120f4411bed126de\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ec90b04d1f1bcab2120f4411bed126de\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yasha\.gradle\caches\transforms-3\237952c9b93a047db8b2dff18ea8715d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yasha\.gradle\caches\transforms-3\237952c9b93a047db8b2dff18ea8715d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\yasha\.gradle\caches\transforms-3\d074dada3c08061a48027202df27484c\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\yasha\.gradle\caches\transforms-3\d074dada3c08061a48027202df27484c\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\5cfec2edf5c3a3cd979b49fae73106d1\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\yasha\.gradle\caches\transforms-3\5cfec2edf5c3a3cd979b49fae73106d1\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\91ecfb7dbe3fd8ea3fcde04034e6d024\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\91ecfb7dbe3fd8ea3fcde04034e6d024\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\468e183ed23987092fce4c7ba152b1c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\468e183ed23987092fce4c7ba152b1c2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\4e05d6b86167cb668af0a5dcfda6b1db\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\4e05d6b86167cb668af0a5dcfda6b1db\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\289681666fd5e8ee901ca8e0d28aa707\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\289681666fd5e8ee901ca8e0d28aa707\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\53da3c7c89896336d8afd184a4023f59\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\53da3c7c89896336d8afd184a4023f59\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yasha\.gradle\caches\transforms-3\ef8e4a27d3758913a74e97413d880ac6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yasha\.gradle\caches\transforms-3\ef8e4a27d3758913a74e97413d880ac6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\15e2771f4bcc4bf1bcfc2a3c504ddcd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\15e2771f4bcc4bf1bcfc2a3c504ddcd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\bfb9d1ad7b98ccfb63a6e6c1967fb893\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\bfb9d1ad7b98ccfb63a6e6c1967fb893\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\e78f9c59e26819aba974286b3ca0cba7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\e78f9c59e26819aba974286b3ca0cba7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\2d3d8ac4f305e4fbec05b01114245e26\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\2d3d8ac4f305e4fbec05b01114245e26\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\1969731961bc041105e8771c7553a7c8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\1969731961bc041105e8771c7553a7c8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\307068e44166497b280ae697e036d29d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\307068e44166497b280ae697e036d29d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\189606ca6e32eb7398ef9d83d83bee5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\189606ca6e32eb7398ef9d83d83bee5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\0b0c663556d3ab0eda6045b45494114d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\0b0c663556d3ab0eda6045b45494114d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\fd12dacc930f11110c6acd1c9aba3fa4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\fd12dacc930f11110c6acd1c9aba3fa4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\18bcebb9ca4351b94198a7137403f338\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\18bcebb9ca4351b94198a7137403f338\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\749b0373b4ef4fbd77b0cdacdddb240f\transformed\core-ktx-1.12.0-alpha05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\749b0373b4ef4fbd77b0cdacdddb240f\transformed\core-ktx-1.12.0-alpha05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yasha\.gradle\caches\transforms-3\e5c814b743ad4229eb30b8da310ca99f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yasha\.gradle\caches\transforms-3\e5c814b743ad4229eb30b8da310ca99f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\45b0fb215e8656329636b1441f0d9853\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\45b0fb215e8656329636b1441f0d9853\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\33120eef06069ecc5a5f3286094e8b3a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\33120eef06069ecc5a5f3286094e8b3a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\754d984a7de1b7d9cdbc04aa0c2f8b01\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yasha\.gradle\caches\transforms-3\754d984a7de1b7d9cdbc04aa0c2f8b01\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\cf916b335dac6ce26c0d468b3a3ba641\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\cf916b335dac6ce26c0d468b3a3ba641\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\4c536ec85cdd27b623056f10e63e8c33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\4c536ec85cdd27b623056f10e63e8c33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\5de84b4738b24f2d4bcfa459ff8f5887\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\5de84b4738b24f2d4bcfa459ff8f5887\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\26260cd10db0dc1bfaf9957a0dcbfa35\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yasha\.gradle\caches\transforms-3\26260cd10db0dc1bfaf9957a0dcbfa35\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yasha\.gradle\caches\transforms-3\8a8911af362fb157cf1038034484c441\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yasha\.gradle\caches\transforms-3\8a8911af362fb157cf1038034484c441\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\fb7b9378a647d093bf4d7af538cca0ea\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yasha\.gradle\caches\transforms-3\fb7b9378a647d093bf4d7af538cca0ea\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\b69064a8249aa5570809ad93604f6899\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\b69064a8249aa5570809ad93604f6899\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yasha\.gradle\caches\transforms-3\359238e22a6626b3907d2c7ab1b499ba\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yasha\.gradle\caches\transforms-3\359238e22a6626b3907d2c7ab1b499ba\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\f89d70b76577eba643f06f3bfe1b2980\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\f89d70b76577eba643f06f3bfe1b2980\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ba075195db5b58b24d68780303f79260\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\ba075195db5b58b24d68780303f79260\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73c12fac5ec350755499a40bf2cc1d67\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73c12fac5ec350755499a40bf2cc1d67\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\c2c3bf8a4df2fa670bca1d9d55023543\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\c2c3bf8a4df2fa670bca1d9d55023543\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yasha\OneDrive\Desktop\Madlabproject\brain game\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\73ea22f0dba01e1eef9d9042f0d354ca\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\yasha\.gradle\caches\transforms-3\cf694ed4ff61e03408df0a78169b3fc6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:23:9-81
+permission#ism3053.fgcubrainage.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:26:22-94
+uses-permission#ism3053.fgcubrainage.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha05] C:\Users\yasha\.gradle\caches\transforms-3\d376a10241f7e217f1bf38af831293cc\transformed\core-1.12.0-alpha05\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\yasha\.gradle\caches\transforms-3\3db58e2b2ccf517d68dee00e45561f44\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
