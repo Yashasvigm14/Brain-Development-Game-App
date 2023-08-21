@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "id": 1000,
+      "name": "Srishti",
+      "score": 150,
+      "gameMode": "Memory"
+    },
+    {
+      "id": 1100,
+      "name": "Yashasvi",
+      "score": 80,
+      "gameMode": "Arithmetic"
+    },
+    {
+      "id": 1200,
+      "name": "abcd",
+      "score": 50,
+      "gameMode": "Arithmetic"
+    }
+  ]
+}

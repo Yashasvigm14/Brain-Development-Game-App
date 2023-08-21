@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ism3053.fgcubrainage">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FgcuBrainAge">
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false"
+            android:label="About"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:label="Settings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LeaderboardActivity"
+            android:exported="false"
+            android:label="Leaderboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ArithmeticActivity"
+            android:exported="false"
+            android:label="Arithmetic Game Mode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false"
+            android:label="Game Results"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MemorizeActivity"
+            android:exported="false"
+            android:label="Memorize Game Mode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CategoryActivity"
+            android:exported="false"
+            android:label="Category Selection"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainMenuActivity"
+            android:exported="true"
+            android:label="Main Menu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

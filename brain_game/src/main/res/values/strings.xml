@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bazinga</string>
+    <string name="title">FGCU\'s</string>
+    <string name="titlev2">Brain Age Game</string>
+    <string name="start">Start Game</string>
+    <string name="leaderBoard">Leaderboard</string>
+    <string name="settings">Settings</string>
+    <string name="arithmetic">Arithmetic</string>
+    <string name="memorize">Memorize</string>
+    <string name="livesHeader">Lives left:</string>
+    <string name="scoreTitle">Score:</string>
+    <string name="score"></string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="gameResult">----- Game Results -----</string>
+    <string name="difReached">Difficulty Reached:</string>
+    <string name="categoryReturn">Return to Category Selection</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="aboutInfo"> Is your child addicted to video games? Well do not fret because we made the perfect video game for all children which both the child and parent will love! Presenting Bazinga, an aptitude and memory game curated for the age group of 7+ years. Time for some math disguised as video games</string>
+    <string name="about">About</string>
+    <string name="game_over">Game Over!</string>
+</resources>
