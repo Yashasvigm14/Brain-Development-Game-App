@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FgcuBrainAge.iml" filepath="$PROJECT_DIR$/.idea/modules/FgcuBrainAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.iml" filepath="$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.main.iml" filepath="$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/brain game/FgcuBrainAge.brain_game.unitTest.iml" />
+    </modules>
+  </component>
+</project>
